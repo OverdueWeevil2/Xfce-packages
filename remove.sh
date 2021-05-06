@@ -16,5 +16,5 @@ sudo apt remove --purge xfce4-screensaver
 sudo apt remove --purge xfce4-screenshooter
 sudo apt remove --purge mousepad
 sudo apt remove --purge xfce4-notifyd
-sudo apt autoremove
 sudo apt --purge autoremove
+sudo apt autoremove
